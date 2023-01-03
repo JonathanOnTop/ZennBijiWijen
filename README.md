@@ -3,16 +3,13 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
-    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on JavaScrip </br>
+    - 🔭 I’m currently working on Pawno </br>
     - 🌱 I’m currently learning NodeJs, JavaScrip, ReactJs, Pawn </br>
     - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
@@ -28,7 +25,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 
 ### Let's connect!
 <p>
-    <a href="https://instagram.com/stfu.fhi" target="blank"><img src="https://img.shields.io/badge/Website-https://indolaxy.carrd.co-green?" /></a>l
+    <a href="https://instagram.com/stfu.fhi" target="blank"><img src="https://img.shields.io/badge/Website-https://instagram.com/stfu.fhi-green?" /></a>l
 </p>
 
 <!--
