@@ -12,8 +12,8 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
-    - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
+    - 🔭 I’m currently working on JavaScrip </br>
+    - 🌱 I’m currently learning NodeJs, JavaScrip, ReactJs, Pawn </br>
     - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
@@ -28,7 +28,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 
 ### Let's connect!
 <p>
-    <a href="https://indolaxy.carrd.co" target="blank"><img src="https://img.shields.io/badge/Website-https://indolaxy.carrd.co-green?" /></a>l
+    <a href="https://instagram.com/stfu.fhi" target="blank"><img src="https://img.shields.io/badge/Website-https://indolaxy.carrd.co-green?" /></a>l
 </p>
 
 <!--
