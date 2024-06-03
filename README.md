@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Zenn!
+# Hi there 👋 , I'm Jonathan!
 Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Pawno.  
 
 ### Tools:
@@ -9,9 +9,9 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on Pawno </br>
-    - 🌱 I’m currently learning NodeJs, JavaScrip, ReactJs, Pawn </br>
-    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
+    - 🔭 I’m currently working on Pawn </br>
+    - 🌱 I’m currently learning NodeJs, JavaScript, Python, Pawn </br>
+    - 👯 I’m looking to collaborate on Automation Project, Windows Apps. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:isekai2711@gmail.com">Email me!</a>  </br>
@@ -24,9 +24,6 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 </p>
 
 ### Let's connect!
-<p>
-    <a href="https://instagram.com/stfu.fhi" target="blank"><img src="https://img.shields.io/badge/Website-https://instagram.com/stfu.fhi-green?" /></a>l
-</p>
 
 <!--
 **ZennBijiWijen/aboutme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
